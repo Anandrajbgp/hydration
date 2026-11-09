@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.Hydration" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+</resources>
